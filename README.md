@@ -53,4 +53,4 @@ Estudos utilizando Power BI, Excel e SQL.
 
 [LinkedIn](www.linkedin.com/in/nicolas-paião-cardoso-58b238268)
 
-[GitHub](https://github.com/nicolaspaiao08)
+[GitHub](https://github.com/nicolaspaiaocardoso)
