@@ -31,8 +31,10 @@ Atualmente, busco desenvolver projetos que unam **Logística + Dados + Tecnologi
 
 ## 📂 Projetos
 
-🔹 **Dashboard Logístico**  
-Análise de indicadores de estoque, movimentação e desempenho.
+🔹 **Microsoft-Flow**  
+Automação de aprovação de orçamentos via Microsoft Teams, com cards interativos e notificações automáticas.
+
+Link: [Microsoft-Flow](https://github.com/nicolaspaiaocardoso/microsoft-flow/blob/main/README.md)
 
 🔹 **Os-Flow**  
 Sistema de automação e gestão do fluxo de Ordens de Serviço, com processos de aprovação, notificações e acompanhamento de status.
